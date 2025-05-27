@@ -1,6 +1,7 @@
 # steam-invest
 Projekt Stem-Invers polega na web-scrappingu danych z Rynku Steam oraz anazlizowaniu ich pod kątem potencjalnych inwestycji.
 # Jak uruchomić kod:
+0. Sklonuj repozytorium
 1. Zainstaluj biblioteki i w swoim środowisku wirtualnym, którego użyjesz do uruchamiania notebooków:
  - Pandas
  - Numpy
