@@ -16,7 +16,7 @@ Projekt **steam-invest** polega na web-scrapingu danych z rynku Steam oraz anali
 2. Uruchom `Steam_data_dow.ipynb`:
    - Wybierz odpowiedni link, aby pobierać nazwy skrzynek, broni lub naklejek.  
    - Wejdź w wybrany link i wpisz odpowiednią liczbę stron w wyznaczonym miejscu.  
-   - Po pobraniu nazw należy zalogować się na stronie [Steam](https://store.steampowered.com/) w przeglądarce Chrome i skopiować pliki cookies:
+   - Po pobraniu nazw należy zalogować się na stronie [Steam](https://store.steampowered.com/) w przeglądarce Chrome i skopiować te parametry plików cookies:
      - `steamLoginSecure`  
      - `sessionid`  
    - Są to dane z pliku cookies, które regularnie się zmieniają, dlatego trzeba je wprowadzać ręcznie.  
