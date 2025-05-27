@@ -12,7 +12,7 @@ Projekt Stem-Invers polega na web-scrappingu danych z Rynku Steam oraz anazlizow
 2. Uruchom Steam_data_dow.ipynb
    - Należy wybrać odpowiedni link, aby pobierać nazwy skrzynek, broni albo naklejek
    - Należy wejść w wybranego linka i wpisać odpowiednią libiczbę stron w wyznaczonym do tego miejscu
-   - Po pobraniu nazw należy zalogować się na stronie steama[https://store.steampowered.com/] w przegląrce Chrome i trzeba skopiować Cookies:
+   - Po pobraniu nazw należy zalogować się na stronie [steama](https://store.steampowered.com/) w przegląrce Chrome i trzeba skopiować Cookies:
      - steamLoginSecure
      - sessionid
    - Są to dane z pliku Cookies, które regularnie się zmieniają dlatego trzeba je wprowadzać ręcznie
