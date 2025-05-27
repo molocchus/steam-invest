@@ -24,4 +24,4 @@ Projekt Stem-Invers polega na web-scrappingu danych z Rynku Steam oraz anazlizow
   Dane są agregowane oraz konstruowany jest model Machine Learningowy mający na celu ocenę jakości inwestycji.
 
 # Projekt został napisapisany z czystej ciekwaości, nie był projektem zaliczeniowym
-# Jak narazie większość inwestycji okazała się być skuteczna, a sama analiza pogłębiła moje zrozumienie rynku Steam
+# Jak na razie większość inwestycji okazała się być skuteczna, a sama analiza pogłębiła moje zrozumienie rynku Steam
